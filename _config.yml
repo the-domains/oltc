@@ -1,0 +1,28 @@
+name: OLTC 2016
+favicon: null
+layout_spectrum: 0.42291423538699746
+typography_spectrum: 0.907881727674976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5794906318187714
+  lightness: 0.14658849220722914
+  saturation: 0.5435102935880423
+  rhythmicContrast: 0.46767391287721694
+purpose: []
